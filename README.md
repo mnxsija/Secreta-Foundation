@@ -17,7 +17,7 @@ Decentralize is our faith. Fast is our path. Easy is our key word.
 Network Details
 ----------------
 ```
-Network Name: Secret
+Network Name: Secreta
 Network Abbreviation: SCR
 Mining Algorithm:  KAWPOW Proof-of-work
 Block Time: 1 minute
